@@ -31,7 +31,7 @@ A website for people who want to find out more about who their government repres
 
 #### Pinky & the Brain Level Goals
 
-- As a genius mouse with some serious issues and a mindless dupe for a sidekick I’d like the ability to do the same thing we do every night and try to take over THE WORLD!!! Narf!!
+- As a genius mouse with some serious issues and a mindless dupe for a sidekick we’d like the ability to do the same thing we do every night and try to take over THE WORLD!!! Narf!!
 
 ## Technologies Used
 
