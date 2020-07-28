@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A website for people who want to find out more about who their government representatives are and what government is doing in their lives.
+A website for people who want to find out more about who their government representatives are and what government is doing in their lives. The user enters their location and is presented detailed and easy to understand information regarding their government.
 
 ## Wireframes
 
