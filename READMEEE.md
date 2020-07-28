@@ -29,7 +29,7 @@ A website for people who want to find out more about who their government repres
 
 - As a user who wants to know about history and compare the present to the past, I’d like the ability to extend the search to go back to the beginning of recorded history.
 
-#### Pinky & the Brain Level Goals
+#### Pinky & the Brain Goals
 
 - As a genius mouse with some serious issues and a mindless dupe for a sidekick we’d like the ability to do the same thing we do every night and try to take over THE WORLD!!! Narf!!
 
