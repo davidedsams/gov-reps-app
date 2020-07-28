@@ -8,7 +8,7 @@ A website for people who want to find out more about who their government repres
 
 ### Home
 
-![IMG_3182](https://user-images.githubusercontent.com/33344527/88694709-e27e7480-d0ce-11ea-99af-7dc000f0a16b.jpg)
+![IMG_3182](https://media.git.generalassemb.ly/user/28446/files/794f2f00-d0d7-11ea-9661-d61459914bfe)
 
 ### Representative Details
 
