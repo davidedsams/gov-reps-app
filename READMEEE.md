@@ -39,7 +39,7 @@ A website for people who want to find out more about who their government repres
 - CSS
 - JavaScript
 - React
-- APIs
+- Third-Party API
 
 ## API
 
