@@ -48,7 +48,7 @@ https://developers.google.com/civic-information
 (This is the API I'll use for my MVP goals. I'll probably need to use others as well in the future.)
 
 #### Representatives Results
-
+``` json
 {
 "normalizedInput": {
 "line1": "1065 Seaboard Avenue Northeast",
@@ -1376,6 +1376,7 @@ https://developers.google.com/civic-information
 }
 ]
 }
+```
 
 ## Component Hierarchy
 
